@@ -1,7 +1,7 @@
-# QueryQuest (Database Design & Query Tuning)
+# QueryQuest (Database Design)
 
-**Author:** [Your Name]
-**Duration:** May '26 - Ongoing
+**Author:** Venkata Sai Koppala
+**Duration:** May '26 - Jul '26
 **Organization:** ACA, IITK
 
 ## Project Overview
